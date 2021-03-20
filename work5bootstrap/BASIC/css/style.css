@@ -1,0 +1,43 @@
+*{
+	box-sizing:border-box;
+	margin:0px;
+	padding:0px;
+}
+.banner
+{
+	background-image: url("../img/academy-banner.jpg");
+}
+.text-right
+{
+	text-align: right;
+}
+.banner h1
+{
+	color: #1e2531;
+}
+.bg-black
+{
+	background-color:black;
+	
+	
+}
+.bg-black p
+{
+	color:#fff;
+	padding:15px;
+
+}
+.features p:before
+{
+	content: "{";
+	color: red;
+}
+.features p:after
+{
+	content: "}";
+	color: red;
+}
+.bgimage
+{
+	background-image: url("../img/modulebg.jpg");
+}

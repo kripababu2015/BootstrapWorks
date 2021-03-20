@@ -1,0 +1,43 @@
+.*
+{
+	margin: 0px;
+	padding: 0px;
+	box-sizing:border-box;
+}
+.bgnav
+{
+	background-color: rgba(0,0,0,0.7);
+
+
+
+
+}
+.banner
+{
+	background-image: url("../img/intro-background.jpg");
+
+
+}
+.menubar li
+{
+	list-style:none;
+	
+	padding:15px;
+
+}
+.menubar ul li a
+{
+	color:white;
+	text-decoration:none;
+	padding:10px;
+	font-size:25px;
+	
+	
+}
+.menubar ul
+{
+	display:inline-flex;
+	padding:15px;
+	
+}
+
